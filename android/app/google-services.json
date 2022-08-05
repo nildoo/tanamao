@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "403650048950",
+    "project_id": "push-816b7",
+    "storage_bucket": "push-816b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403650048950:android:530c39b3531350ab4ec717",
+        "android_client_info": {
+          "package_name": "com.tanamao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403650048950-1u15evg0or1iqp8dr3v097p07fe9vrn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanamao",
+            "certificate_hash": "3ab46eeec442dd4ef64c0f2ac13c3d066c6ba001"
+          }
+        },
+        {
+          "client_id": "403650048950-h3id7kl65r8m293l8fmj2h8bv48qddep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxztpWBUttZBGC7tVPhiuLSmJCwcbXU9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403650048950-h3id7kl65r8m293l8fmj2h8bv48qddep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403650048950-cpl3j47g4ac69agjuc2c7v0v8iaqkpn8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanamao.tanamao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
